@@ -1,6 +1,6 @@
 from bge import logic
 import compz
-
+ 
 def gui():
 	global markerIgnition
 	global TimerSpeedTmOut
